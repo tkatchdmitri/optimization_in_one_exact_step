@@ -2,7 +2,7 @@
 
 What if instead of doing deep learning optimization through a series of approximate steps you took a single exact step?
 
-If you're standing on a mountain in a mountain range and you wish to get to sea level, could you figure out which way to go and how far simply by the feeling of the ground beneath your feet?
+If you're standing on a mountain and there are mountains all around you and you wish to get to sea level, could you figure out which way to go and how far simply by the feeling of the ground beneath your feet?
 
 If the mountain range is infinitely differentiable then the answer is yes. Otherwise, the answer is no.
 
