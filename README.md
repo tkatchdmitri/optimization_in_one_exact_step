@@ -13,3 +13,11 @@ You would simply compute all the orders of all the derivatives at the point at w
 This implies a different sort of optimization regime where you spend most of your time computing higher order derivatives at a single point instead of computing first order derivatives at many points.
 
 Less jumping around, more direct solutions, sounds appealing right?
+
+# Humans
+
+Some might say multi-step optimization is ideal because of the need to process a large amount of data continuously. How much data intake did Einstein require during his invention of relativity?
+
+Others might argue that internal thoughts must be multi-step based. What was Einstein's attention span like?
+
+Lastly, some might argue that since biological neurons can't send information backwards and thereby require mere approximations to the backpropagation algorithm within the brain, that higher order derivatives are implausible, but this is only accurate when considering only one-to-one mappings of artificial neurons and synapses to biological ones.
