@@ -26,6 +26,6 @@ Others might argue that internal thoughts must be multi-step based. What was Ein
 
 ### Biology
 
-Lastly, some might argue that since biological neurons can't send information backwards and thereby require mere approximations to the backpropagation algorithm within the brain, that higher order derivatives are implausible, but this is only accurate when considering only one-to-one mappings of artificial neurons and synapses to biological ones.
+Lastly, some might argue that since biological neurons can't send information backwards and thereby require mere approximations to the backpropagation algorithm within the brain, that higher order derivatives are implausible, but this is accurate only when considering one-to-one mappings of artificial neurons and synapses to biological ones.
 
 
