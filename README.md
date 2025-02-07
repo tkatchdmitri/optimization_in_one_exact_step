@@ -14,7 +14,7 @@ This implies a different sort of optimization regime where you spend most of you
 
 Less jumping around, more direct solutions, sounds appealing right?
 
-# Humans
+## Humans
 
 Some might say multi-step optimization is ideal because of the need to process a large amount of data continuously. How much data intake did Einstein require during his invention of relativity?
 
