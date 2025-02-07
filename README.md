@@ -21,3 +21,5 @@ Some might say multi-step optimization is ideal because of the need to process a
 Others might argue that internal thoughts must be multi-step based. What was Einstein's attention span like?
 
 Lastly, some might argue that since biological neurons can't send information backwards and thereby require mere approximations to the backpropagation algorithm within the brain, that higher order derivatives are implausible, but this is only accurate when considering only one-to-one mappings of artificial neurons and synapses to biological ones.
+
+Related: https://proceedings.neurips.cc/paper_files/paper/2018/file/0a1bf96b7165e962e90cb14648c9462d-Paper.pdf
