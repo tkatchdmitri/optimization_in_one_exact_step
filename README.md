@@ -14,7 +14,7 @@ This implies a different sort of optimization regime where you spend most of you
 
 Less jumping around, more direct solutions, sounds appealing right?
 
-## Humans
+## Brains
 
 ### Data
 
