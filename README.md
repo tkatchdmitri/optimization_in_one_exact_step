@@ -16,8 +16,16 @@ Less jumping around, more direct solutions, sounds appealing right?
 
 ## Humans
 
+### Data
+
 Some might say multi-step optimization is ideal because of the need to process a large amount of data continuously. How much data intake did Einstein require during his invention of relativity?
+
+### Focus
 
 Others might argue that internal thoughts must be multi-step based. What was Einstein's attention span like?
 
+### Biology
+
 Lastly, some might argue that since biological neurons can't send information backwards and thereby require mere approximations to the backpropagation algorithm within the brain, that higher order derivatives are implausible, but this is only accurate when considering only one-to-one mappings of artificial neurons and synapses to biological ones.
+
+
