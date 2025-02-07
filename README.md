@@ -28,4 +28,6 @@ Others might argue that internal thoughts must be multi-step based. What was Ein
 
 Lastly, some might argue that since biological neurons can't send information backwards and thereby require mere approximations to the backpropagation algorithm within the brain, that higher order derivatives are implausible, but this is accurate only when considering one-to-one mappings of artificial neurons and synapses to biological ones.
 
+## Generalization
 
+Some might argue we don't want a minimum on the training data but the validation data leading to a generalization issue. However, flatter solutions generalize better and this can be guaranteed if we jump towards the point that has all higher order derivatives close to zero. 
