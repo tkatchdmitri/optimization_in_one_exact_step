@@ -30,4 +30,4 @@ Lastly, some might argue that since biological neurons can't send information ba
 
 ## Generalization
 
-Some might argue we don't want a minimum on the training data but the validation data leading to a generalization issue. However, flatter solutions generalize better and this can be guaranteed if we jump towards the point that has all higher order derivatives close to zero. 
+Some might argue we don't want a minimum on the training data but the validation data leading to a generalization issue. However, flatter solutions generalize better and this can be guaranteed if we one-step to the point that has all higher order derivatives close to zero. 
