@@ -30,4 +30,12 @@ Lastly, some might argue that since biological neurons can't send information ba
 
 ## Generalization
 
-Some might argue we don't want a minimum on the training data but the validation data leading to a generalization issue. However, flatter solutions generalize better and this can be guaranteed if we one-step to the point that has all higher order derivatives close to zero. 
+Some might argue we don't want a minimum on the training data but the validation data leading to a generalization issue. However, flatter solutions generalize better and this can be guaranteed if we one-step to the point that has all higher order derivatives close to zero.
+
+## Humans
+
+Do humans one-stepp or n-step? Derivatives take time to compute. So possibly humans one-step but not instantenously. Perhaps dopamine has something to do with how long a human is willing to compute derivatives. 
+
+How is this implemented in human spiking neural networks? Is spiking even a fact of nature? If you assume 1000 trillion synapses you get that the length of an axon is roughly 1/1000th of a 4 feet, which sounds reasonable.
+
+Ignoring the spiking hypothesis for the moment and proceeding with the network hypothesis for the origins of intelligence, we might also hypothesize that the requirements for data decrease with time.
