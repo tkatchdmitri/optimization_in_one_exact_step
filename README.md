@@ -18,11 +18,11 @@ Less jumping around, more direct solutions, sounds appealing right?
 
 ### Data
 
-Some might say multi-step optimization is ideal because of the need to process a large amount of data continuously. How much data intake did Einstein require during his invention of relativity?
+Some might say multi-step optimization is ideal because of the need to process a large amount of data continuously. How much data does a revolutionary theory require?
 
 ### Focus
 
-Others might argue that internal thoughts must be multi-step based. What was Einstein's attention span like?
+Others might argue that internal thoughts must be multi-step based. Must attention span be ADD?
 
 ### Biology
 
