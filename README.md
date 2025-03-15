@@ -8,11 +8,11 @@ If the mountain range is infinitely differentiable then the answer is yes. Other
 
 In deep learning the loss function is usually infinitely differentiable but the data is noisy. If you had infinite data and compute could you solve the optimization problem in a single step? Intuitively the answer seems to be yes.
 
-You would simply compute all the orders of all the derivatives at the point at which you stand -- the curvature of the Earth beneath your feet.
+You would simply compute the derivative, the derivative's derivative, the derivative's derivative's derivative, ... from the point at which you stand -- the curvature of the Earth beneath your feet.
 
-This implies a different sort of optimization regime where you spend most of your time computing higher order derivatives at a single point instead of computing first order derivatives at many points.
+This implies a different sort of optimization process where you spend most of your time computing higher derivatives from where you stand instead of computing first order derivatives at many points.
 
-Less jumping around, more direct solutions, sounds appealing right?
+Less jumping around, more direct solutions, sounds good right?
 
 ## Brains
 
