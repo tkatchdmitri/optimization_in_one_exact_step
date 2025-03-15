@@ -14,7 +14,7 @@ This implies a different sort of optimization process where you spend most of yo
 
 Less jumping around, more direct solutions, sounds good right?
 
-## Brains
+## Minds
 
 ### Data
 
