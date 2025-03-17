@@ -3,9 +3,9 @@
 def mult(X,Y): # MATRIX MULTIPLICATION
     return [[X[0][0]*Y[0][0]+X[0][1]*Y[1][0], X[0][0]*Y[0][0]+X[0][1]*Y[1][0]],[X[0][0]*Y[0][0]+X[0][1]*Y[1][0],X[0][0]*Y[0][0]+X[0][1]*Y[1][0]]]
 
-def sub(ROMAN,GREEK): # MATRIX SUBTRACTION
+def sub(R,G): # MATRIX SUBTRACTION
     # print(ROMAN)
-    return [[ROMAN[0][0]-GREEK[0][0],ROMAN[1][0]-GREEK[1][0]],[ROMAN[0][1]-GREEK[0][1],ROMAN[1][1]-GREEK[1][1]]]
+    return [[R[0][0]-G[0][0],R[1][0]-G[1][0]],[R[0][1]-G[0][1],R[1][1]-G[1][1]]]
 
 
 def add(X,Y): # MATRIX ADDITION
